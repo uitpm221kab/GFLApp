@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "When Anatolii Met Sally",
+    "ReleaseDate": "1989-02-12T00:00:00",
+    "Genre": "Romantic Comedy",
+    "Price": 7.99
+  },
+  {
+    "Title": "Ghostbusters",
+    "ReleaseDate": "1984-03-13T00:00:00",
+    "Genre": "Comedy",
+    "Price": 8.99
+  },
+  {
+    "Title": "Ghostbusters 2",
+    "ReleaseDate": "1986-02-23T00:00:00",
+    "Genre": "Comedy",
+    "Price": 9.99
+  },
+  {
+    "Title": "Rio Bravo",
+    "ReleaseDate": "1959-04-15T00:00:00",
+    "Genre": "Western",
+    "Price": 3.99
+  }
+]
